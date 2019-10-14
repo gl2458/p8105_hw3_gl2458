@@ -260,7 +260,6 @@ accel %>%
     y = "Total Activity", 
     title = "24-hour activity time courses for each day"
   )
- theme_bw()
 ```
 
 The peak activity occurs on fridays between 19th and 21st hour. The activity is at the lowest between 0th to 4th hour in the morning. The trend shows the activity increases after.
